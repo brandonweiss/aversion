@@ -13,6 +13,7 @@
   },
   "license": "MIT",
   "scripts": {
+    "postpublish": "git clean -f *.js",
     "prepublishOnly": "tsc",
     "start": "ts-node --pretty cli.ts"
   },
