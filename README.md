@@ -79,13 +79,14 @@ Aversion supports multiple languages and multiple version managers for each lang
 
 ### Ruby
 
-* [rbenv][rbenv]
 * [asdf][asdf]
+* [rbenv][rbenv]
 
 ### Node
 
-* [nvm][nvm]
 * [asdf][asdf]
+* [nodenv][nodenv]
+* [nvm][nvm]
 
 ### Others
 
@@ -151,6 +152,7 @@ Bug reports and pull requests are welcome on GitHub at [https://github.com/brand
 
 The package is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
-[rbenv]: https://github.com/rbenv/rbenv
-[nvm]: https://github.com/creationix/nvm
 [asdf]: https://github.com/asdf-vm/asdf
+[nodenv]: https://github.com/nodenv/nodenv
+[nvm]: https://github.com/creationix/nvm
+[rbenv]: https://github.com/rbenv/rbenv
