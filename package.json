@@ -1,6 +1,6 @@
 {
   "name": "aversion",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "See what language versions each of your projects is using; upgrade to new versions and uninstall old versions.",
   "author": {
     "name": "Brandon Weiss",
