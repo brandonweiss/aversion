@@ -42,10 +42,10 @@
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@types/minimist/-/minimist-1.2.0.tgz#69a23a3ad29caf0097f06eda59b361ee2f0639f6"
 
-"@types/node@^11.10.0":
-  version "11.10.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-11.10.0.tgz#08eeb736ae678ccf9ca0922063f3a08795894ede"
-  integrity sha512-6Mb9+PPq9UzRpQrlPzZAbhEvodWDTnsIakddUAtSDpKYF6eu5zAdW31n8x7UZStvqGnDC7dCJnvU188ylv/Ytw==
+"@types/node@^11.10.3":
+  version "11.10.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-11.10.3.tgz#a2dfc3c57045103ae950e313536342aa2970e537"
+  integrity sha512-71XxCHJmmTQ8B0B01TB2kahu5zIrCbWCadDB3ZwqHqnphyNnftrurFDfHtW8HbSTKuwR15m7bhbQutqrWpXlIw==
 
 "@types/update-notifier@^2.5.0":
   version "2.5.0"
