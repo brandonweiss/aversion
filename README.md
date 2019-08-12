@@ -45,12 +45,6 @@ Install it globally:
 ❯ npm install --global aversion
 ```
 
-Or using Yarn:
-
-```
-❯ yarn global add aversion
-```
-
 ## Usage
 
 ```
