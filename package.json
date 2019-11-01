@@ -18,7 +18,7 @@
     "start": "ts-node --pretty cli.ts"
   },
   "devDependencies": {
-    "@types/compare-versions": "^3.0.0",
+    "@types/compare-versions": "^3.3.0",
     "@types/meow": "^5.0.0",
     "@types/node": "^12.12.4",
     "@types/update-notifier": "^2.5.0",
