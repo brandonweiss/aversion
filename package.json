@@ -20,7 +20,7 @@
   "devDependencies": {
     "@types/compare-versions": "^3.3.0",
     "@types/meow": "^5.0.0",
-    "@types/node": "^12.12.12",
+    "@types/node": "^12.12.14",
     "@types/update-notifier": "^2.5.0",
     "husky": "^3.1.0",
     "np": "^5.1.3",
