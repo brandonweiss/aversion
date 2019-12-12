@@ -33,7 +33,7 @@
     "compare-versions": "^3.5.1",
     "meow": "^6.0.0",
     "typescript-memoize": "^1.0.0-alpha.3",
-    "update-notifier": "^3.0.1"
+    "update-notifier": "^4.0.0"
   },
   "husky": {
     "hooks": {
