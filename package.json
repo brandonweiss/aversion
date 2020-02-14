@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "compare-versions": "^3.6.0",
-    "meow": "^6.0.0",
+    "meow": "^6.0.1",
     "typescript-memoize": "^1.0.0-alpha.3",
     "update-notifier": "^4.1.0"
   },
