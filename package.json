@@ -30,7 +30,7 @@
     "typescript": "^3.7.5"
   },
   "dependencies": {
-    "compare-versions": "^3.5.1",
+    "compare-versions": "^3.6.0",
     "meow": "^6.0.0",
     "typescript-memoize": "^1.0.0-alpha.3",
     "update-notifier": "^4.0.0"
