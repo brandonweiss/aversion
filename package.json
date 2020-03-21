@@ -27,7 +27,7 @@
     "prettier": "^1.19.1",
     "pretty-quick": "^2.0.1",
     "ts-node": "^8.7.0",
-    "typescript": "^3.7.5"
+    "typescript": "^3.8.3"
   },
   "dependencies": {
     "compare-versions": "^3.6.0",
