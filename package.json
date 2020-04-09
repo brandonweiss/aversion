@@ -22,7 +22,7 @@
     "@types/meow": "^5.0.0",
     "@types/node": "^13.11.1",
     "@types/update-notifier": "^4.1.0",
-    "husky": "^4.2.3",
+    "husky": "^4.2.5",
     "np": "^6.2.0",
     "prettier": "^2.0.4",
     "pretty-quick": "^2.0.1",
