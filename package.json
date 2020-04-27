@@ -23,7 +23,7 @@
     "@types/node": "^13.13.4",
     "@types/update-notifier": "^4.1.0",
     "husky": "^4.2.5",
-    "np": "^6.2.1",
+    "np": "^6.2.3",
     "prettier": "^2.0.4",
     "pretty-quick": "^2.0.1",
     "ts-node": "^8.9.1",
